@@ -1,3 +1,3 @@
 # SQLProject
-This is the updated Sql Project
-Author-PawanJ
+This is the updated Sql Project.
+Author - PawanJ
